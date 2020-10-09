@@ -2,3 +2,7 @@ THIS IS FILE 1
 ABOUT TO BE STAFED AND COMMITTED
 
 // THIS IS MORE CHANGES THAT I want to push to GitHub
+changes changes changes
+this is not my repo I want to push
+but ı have no access
+easiest solution fork it
